@@ -1,0 +1,7 @@
+langchain-groq
+python-dotenv
+PyPDF2
+sentence_transformers
+faiss-cpu
+numpy
+langchain-tavily
